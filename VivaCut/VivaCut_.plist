@@ -11,21 +11,21 @@
                                   <key>kind</key>
                                   <string>software-package</string>
                                   <key>url</key>
-                                  <string>http://10.0.32.129:8888/VivaCut/VivaCut_1.8.1_dev_1.8.1_build_adhoc__2020-12-28_19_49.ipa</string>
+                                  <string>http://10.0.32.129:8888/VivaCut/VivaCut__dev_1.0_bitcode_build_adhoc__2021-03-18_15_35.ipa</string>
                               </dict>
                           </array>
                           <key>metadata</key>
                           <dict>
                               <key>bundle-identifier</key>
-                              <string>com.vivacut.videoeditor</string>
+                              <string>com.qumeng.vmix.pro</string>
                               <key>bundle-version</key>
-                              <string>1.8.1</string>
+                              <string></string>
                               <key>kind</key>
                               <string>software</string>
                               <key>title</key>
-                              <string>VivaCut</string>
+                              <string>VMixPro</string>
                           </dict>
                       </dict>
                   </array>
               </dict>
-              </plist>
+              </plist></plist>
