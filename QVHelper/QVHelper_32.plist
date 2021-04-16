@@ -11,7 +11,7 @@
                                   <key>kind</key>
                                   <string>software-package</string>
                                   <key>url</key>
-                                  <string>http://10.0.32.65:8888/QVHelper/QVHelper_1.0.0_build_adhoc_32_2020-06-28_14_46</string>
+                                  <string>http://10.0.32.129:8888/QVHelper/QVHelper_3.0.0_build_adhoc_32_2021-04-16_15_28.ipa</string>
                               </dict>
                           </array>
                           <key>metadata</key>
@@ -19,7 +19,7 @@
                               <key>bundle-identifier</key>
                               <string>com.quvideo.qvhelper</string>
                               <key>bundle-version</key>
-                              <string>1.0.0</string>
+                              <string>3.0.0</string>
                               <key>kind</key>
                               <string>software</string>
                               <key>title</key>
