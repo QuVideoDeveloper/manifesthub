@@ -11,7 +11,7 @@
                                   <key>kind</key>
                                   <string>software-package</string>
                                   <key>url</key>
-                                  <string>http://10.0.32.129:8888/VMix/VMix__dev_1.0_build_adhoc__2021-03-26_11_59.ipa</string>
+                                  <string>http://10.0.32.129:8888/VMix/VMix_1.7.5_dev_1.7.5_build_adhoc__2023-01-11_14_08.ipa</string>
                               </dict>
                           </array>
                           <key>metadata</key>
@@ -19,7 +19,7 @@
                               <key>bundle-identifier</key>
                               <string>com.qumeng.vmix.pro</string>
                               <key>bundle-version</key>
-                              <string></string>
+                              <string>1.7.5</string>
                               <key>kind</key>
                               <string>software</string>
                               <key>title</key>
