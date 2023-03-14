@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+              <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+              <plist version="1.0">
+              <dict>
+                  <key>items</key>
+                  <array>
+                      <dict>
+                          <key>assets</key>
+                          <array>
+                              <dict>
+                                  <key>kind</key>
+                                  <string>software-package</string>
+                                  <key>url</key>
+                                  <string>http://10.0.32.62:8888/VivaCut/VivaCut_3.1.6_dev_3.1.8_music_search_build_adhoc_3834_2023-03-14_11_08.ipa</string>
+                              </dict>
+                          </array>
+                          <key>metadata</key>
+                          <dict>
+                              <key>bundle-identifier</key>
+                              <string>com.vivacut.videoeditor</string>
+                              <key>bundle-version</key>
+                              <string>3.1.6</string>
+                              <key>kind</key>
+                              <string>software</string>
+                              <key>title</key>
+                              <string>VivaCut</string>
+                          </dict>
+                      </dict>
+                  </array>
+              </dict>
+              </plist>
