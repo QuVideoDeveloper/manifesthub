@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+              <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+              <plist version="1.0">
+              <dict>
+                  <key>items</key>
+                  <array>
+                      <dict>
+                          <key>assets</key>
+                          <array>
+                              <dict>
+                                  <key>kind</key>
+                                  <string>software-package</string>
+                                  <key>url</key>
+                                  <string>http://10.0.32.62:8888/VivaVideo/9.11.0_build_adhoc_3606_2023-08-04_10_47.ipa</string>
+                              </dict>
+                          </array>
+                          <key>metadata</key>
+                          <dict>
+                              <key>bundle-identifier</key>
+                              <string>com.quvideo.XiaoYing</string>
+                              <key>bundle-version</key>
+                              <string>9.11.0</string>
+                              <key>kind</key>
+                              <string>software</string>
+                              <key>title</key>
+                              <string>VivaVideo</string>
+                          </dict>
+                      </dict>
+                  </array>
+              </dict>
+              </plist>
