@@ -1,12 +1,14 @@
 {
   "product_name": "AI Catch",
-  "build_number": "20260303152524",
+  "build_number": "20260318152524",
   "build_type": "build_adhoc",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "branch": "unknown",
-  "time": "2026-03-03_15_25",
-  "download_path": "http://192.168.1.135:9000/ipas/AdHoc_20260303_152524/AITemplate.ipa",
-  "jenkins_path": "http://localhost:8080/job/AICatch/108/",
+  "time": "2026-03-18_15_25",
+  "download_path": "http://192.168.1.135:9000/ipas/AdHoc_20260318_152524/AITemplate.ipa",
+  "jenkins_path": "http://localhost:8080/job/AICatch/185/",
   "changelog": "No changelog available",
-  "debug_build": true
+  "debug_build": false,
+  "environment": "0",
+  "app_key": "1"
 }
