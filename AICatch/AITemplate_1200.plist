@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.135:9000/ipas/AdHoc_20260310_171200/AITemplate.ipa</string>
+					<string>http://192.168.1.135:9000/ipas/AdHoc_20260410_141200/AITemplate.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.Prominent.AICatch</string>
 				<key>bundle-version</key>
-				<string>1.4.1</string>
+				<string>1.4.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
