@@ -6,7 +6,7 @@
   "branch": "unknown",
   "time": "2026-07-01_18_15",
   "download_path": "http://192.168.1.135:9000/ipas/AdHoc_20260701_181540/AITemplate.ipa",
-  "jenkins_path": "http://localhost:8080/job/AICatch/392/",
+  "jenkins_path": "http://localhost:8080/job/AICatch/393/",
   "changelog": "No changelog available",
   "debug_build": false,
   "environment": "0",
