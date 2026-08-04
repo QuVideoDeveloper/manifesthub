@@ -1,0 +1,11 @@
+{
+  "product_name": "VivaVideo-M4-Validation",
+  "build_number": "10",
+  "build_type": "inhouse_validation",
+  "version": "9.38.0.260804",
+  "time": "2026-08-04_17_07",
+  "branch": "origin/9.38.0",
+  "download_path": "http://192.168.1.134:8888/VivaVideo-M4-Validation/9.38.0_build_adhoc_10_2026-08-04_15_01_inhouse.ipa",
+  "jenkins_path": "http://127.0.0.1:8080/job/VivaVideo-M4-AdHoc-Migration/10/",
+  "changelog": "M4 Jenkins isolated OTA validation. Source commit b06c081a7a964f15c9b67bb554ba426b6d459e75; enterprise resign manual-001; clean-install validation only."
+}
