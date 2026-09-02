@@ -1,0 +1,11 @@
+{
+  "product_name": "VivaVideo",
+  "build_number": "7287",
+  "build_type": "build_adhoc",
+  "version": "9.38.3",
+  "time": "2026-09-02_14_20",
+  "branch": "origin/9.38.5",
+  "download_path": "http://192.168.1.134:8888/VivaVideo/9.38.3_build_adhoc_7287_2026-09-02_14_20.ipa",
+  "jenkins_path": "http://192.168.1.134:8080/job/VivaVideo-AdHoc/7287/",
+  "changelog": "引擎包:N/A\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新多语言字符串\\n [Mingxiao.Feng] feat:更新Appkey，更新版本号\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新版本号，Appkey\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:修改版本号,Appkey"
+}
