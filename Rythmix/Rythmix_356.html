@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Rythmix - 下载安装</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 500px;
+            width: 100%;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        .app-icon {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 20px;
+            border-radius: 22px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            color: white;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        }
+
+        h1 {
+            font-size: 28px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .version-info {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
+
+        .info-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 30px;
+            text-align: left;
+        }
+
+        .info-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        .info-item:last-child {
+            border-bottom: none;
+        }
+
+        .info-label {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .info-value {
+            color: #333;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .install-btn {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 12px;
+            font-size: 18px;
+            font-weight: 600;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+            margin-bottom: 15px;
+        }
+
+        .install-btn:active {
+            transform: scale(0.98);
+        }
+
+        .download-btn {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            border: 2px solid #667eea;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .download-btn:active {
+            background: #f8f9fa;
+        }
+
+        .tips {
+            margin-top: 30px;
+            padding: 20px;
+            background: #fff3cd;
+            border-radius: 12px;
+            text-align: left;
+        }
+
+        .tips-title {
+            color: #856404;
+            font-weight: 600;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+        .tips-content {
+            color: #856404;
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+        .tips-content li {
+            margin-left: 20px;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="app-icon">🎵</div>
+        <h1>Rythmix</h1>
+        <div class="version-info">Debug 版本</div>
+
+        <div class="info-card">
+            <div class="info-item">
+                <span class="info-label">版本号</span>
+                <span class="info-value">1.19.0</span>
+            </div>
+            <div class="info-item">
+                <span class="info-label">Build</span>
+                <span class="info-value">356</span>
+            </div>
+            <div class="info-item">
+                <span class="info-label">构建时间</span>
+                <span class="info-value">2026-09-04 17:37:19</span>
+            </div>
+            <div class="info-item">
+                <span class="info-label">Bundle ID</span>
+                <span class="info-value">com.song.ailab</span>
+            </div>
+        </div>
+
+        <a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/QuVideoDeveloper/manifesthub/master/Rythmix/Rythmix_356.plist" class="install-btn">
+            📲 点击安装到设备
+        </a>
+
+        <a href="http://192.168.1.131:8888/Rythmix/Debug/1.19.0_Debug_356.ipa" class="download-btn" download>
+            💾 下载 IPA 文件
+        </a>
+
+        <div class="tips">
+            <div class="tips-title">📌 安装说明</div>
+            <div class="tips-content">
+                <ol>
+                    <li>请使用 Safari 浏览器打开此页面</li>
+                    <li>点击"点击安装到设备"按钮</li>
+                    <li>在弹出的对话框中点击"安装"</li>
+                    <li>前往"设置 > 通用 > VPN与设备管理"信任企业证书</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
