@@ -1,0 +1,11 @@
+{
+  "product_name": "VivaVideo",
+  "build_number": "7303",
+  "build_type": "build_adhoc",
+  "version": "9.38.5",
+  "time": "2026-09-24_16_25",
+  "branch": "origin/9.38.5",
+  "download_path": "http://192.168.1.134:8888/VivaVideo/9.38.5_build_adhoc_7303_2026-09-24_16_25.ipa",
+  "jenkins_path": "http://192.168.1.134:8080/job/VivaVideo-AdHoc/7303/",
+  "changelog": "引擎包:N/A\\n [Mingxiao.Feng] feat[7121592453]:更新Podfile\\n [Mingxiao.Feng] feat[7117330224]:新增通知推送触达记录逻辑\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新多语言字符串\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新字幕相关剪辑菜单的顺序以及名称，图片\\n [Mingxiao.Feng] feat:更新版本号,更新Appkey\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile"
+}
