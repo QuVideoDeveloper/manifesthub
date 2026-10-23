@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.135:9000/ipas/AdHoc_20260714_201120/Kiva.ipa</string>
+					<string>http://192.168.1.135:9000/ipas/AdHoc_20261023_111120/Kiva.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Prominent.AICatch</string>
+				<string>com.Prominent.AICatch.kiva</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
