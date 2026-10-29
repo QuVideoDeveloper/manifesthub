@@ -1,0 +1,11 @@
+{
+  "product_name": "VivaVideo",
+  "build_number": "7328",
+  "build_type": "build_adhoc",
+  "version": "9.39.0",
+  "time": "2026-10-29_17_54",
+  "branch": "origin/9.39.0",
+  "download_path": "http://192.168.1.134:8888/VivaVideo/9.39.0_build_adhoc_7328_2026-10-29_17_54.ipa",
+  "jenkins_path": "http://192.168.1.134:8080/job/VivaVideo-AdHoc/7328/",
+  "changelog": "引擎包:N/A\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新高级调节xyt\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat[7139508272]:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile.lock\\n [Mingxiao.Feng] feat:更换引导页视频资源\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat[7121592453]:修复外部分享时数量校验不对导致无法进入剪辑的问题\\n [Mingxiao.Feng] feat:更新多语言字符串"
+}
