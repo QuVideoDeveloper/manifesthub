@@ -1,0 +1,11 @@
+{
+  "product_name": "VivaVideo",
+  "build_number": "7337",
+  "build_type": "build_adhoc",
+  "version": "9.39.0",
+  "time": "2026-11-12_19_37",
+  "branch": "origin/9.39.0",
+  "download_path": "http://192.168.1.134:8888/VivaVideo/9.39.0_build_adhoc_7337_2026-11-12_19_37.ipa",
+  "jenkins_path": "http://192.168.1.134:8080/job/VivaVideo-AdHoc/7337/",
+  "changelog": "引擎包:N/A\\n [Mingxiao.Feng] feat:更新Podfile，更新多语言\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新高级调节资源文件\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新高级调节xyt\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat[7139508272]:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile\\n [Mingxiao.Feng] feat:更新Podfile.lock"
+}
