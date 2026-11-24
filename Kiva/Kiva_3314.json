@@ -1,0 +1,14 @@
+{
+  "product_name": "Kiva",
+  "build_number": "20261124193314",
+  "build_type": "build_adhoc",
+  "version": "1.7.0",
+  "branch": "unknown",
+  "time": "2026-11-24_19_33",
+  "download_path": "http://192.168.1.135:9000/ipas/AdHoc_20261124_193314/Kiva.ipa",
+  "jenkins_path": "http://localhost:8080/job/Kiva/470/",
+  "changelog": "No changelog available",
+  "debug_build": true,
+  "environment": "0",
+  "app_key": "1"
+}
